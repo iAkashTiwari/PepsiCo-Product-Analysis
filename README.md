@@ -1,0 +1,6 @@
+# PepsiCo-Product-Analysis
+In this EDA project on PepsiCo products, I cleaned, summarized, and visualized data. Key insights include dominant 'Beverages' category, fluctuating product launches by year and region, diverse ownership, and status distributions in categories. Valuable for data-driven decisions
+In this data analysis project, I conducted an extensive Exploratory Data Analysis (EDA) on a dataset representing PepsiCo products. The analysis encompassed data cleaning, statistical summaries, and insightful visualizations.
+Key findings revealed that 'Beverages' dominated the product categories, while 'Launched' products were the majority status. The number of product launches fluctuated over the years, with notable regional variations. Diverse entities owned the products, contributing to varying product counts.
+Visualizations included scatter plots illustrating the relationship between launch years and regions, and grouped bar charts showcasing launch trends across regions. Additionally, a stacked bar chart highlighted status distributions within product categories.
+This project provided valuable insights into PepsiCo's product landscape, aiding data-driven decision-making and strategic planning."
